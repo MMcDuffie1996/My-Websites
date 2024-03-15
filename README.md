@@ -1,2 +1,2 @@
 # My-Websites
-Here are HTML projects that I have completed
+Here are the HTML projects that I have completed
